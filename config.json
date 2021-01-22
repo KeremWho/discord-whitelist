@@ -1,0 +1,18 @@
+{
+  "application": {
+    "token": ""
+  },
+  "roles": {
+    "whitelistRoles": [
+      "123"
+    ],
+    "blacklistRoles": [
+      "123"
+    ]
+  },
+  "messages": {
+    "notWhitelistedMessage": "Bu sunucuya bağlanmak için whitelist'e sahip olmanız gerekiyor.",
+    "noGuildMessage": "Bu sunucuya bağlanmak için whitelist'e sahip olmanız gerekiyor. discord.gg/",
+    "blacklistMessage": "Karalistedesin."
+  }
+}

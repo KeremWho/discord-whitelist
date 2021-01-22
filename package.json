@@ -1,0 +1,14 @@
+{
+  "name": "discord-whitelist",
+  "version": "1.0.0",
+  "description": "A New Discord Whitelist System for FiveM",
+  "main": "index.js",
+  "repository": "https://github.com/KeremWho/discord-whitelist.git",
+  "author": "KeremWho (kerem.kim)",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@citizenfx/server": "^1.0.3439-1",
+    "axios": "^0.21.1"
+  }
+}
